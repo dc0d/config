@@ -1,0 +1,5 @@
+nats:
+  httpport: 3000
+  port: 3001
+  username: "USR"
+  password: "PSW"
