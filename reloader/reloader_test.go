@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dc0d/config/pkg/ymlconfig"
+	"github.com/dc0d/config/ymlconfig"
 	"github.com/fsnotify/fsnotify"
 	"github.com/stretchr/testify/assert"
 )
